@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Terminus \\(TTF\\)'",
+    "editor.fontSize": 22,
+    "editor.fontLigatures": false,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "terminal.integrated.fontSize": 18,
+}
